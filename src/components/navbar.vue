@@ -4,7 +4,7 @@
     <header class="header_container">
         <div class="header_section">
             <div class="header_logo">
-                <img src="../assets/teledoc-logo.svg" alt="teledoc logo">
+                <a href="#"><img src="../assets/teledoc-logo.svg" alt="teledoc logo"></a>
             </div>
             <div class="header_language">
                 <img src="../assets/globe-icon.svg" alt="globe icon">

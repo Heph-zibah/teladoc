@@ -20,7 +20,7 @@
     margin: auto;
     border-top: 1px dashed #727069;
     margin-top: 50px;
-    
+    margin-bottom: 40px;
 }
 .footer_section {
     text-align: center;
